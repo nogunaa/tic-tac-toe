@@ -1,0 +1,60 @@
+.container {
+    text-align: center;
+}
+
+.title {
+    margin-top: 50px;
+    color: whitesmoke;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title span {
+    padding-left: 15px;
+    color: #F6942C;
+}
+
+.reset {
+    width: 250px;
+    height: 100px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background: #E8518F;
+    color: whitesmoke;
+    font-size: 26px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.boxes {
+    display: flex;
+    height: 180px;
+    width: 180px;
+    background:  #721E79;
+    border: 3px solid #302658;
+    border-radius: 12px;
+    cursor: pointer;
+    margin: 1px;
+}
+
+.boxes img {
+    margin: 50px;
+}
+
+.board {
+    height: 600px;
+    width: 564px;
+    display: flex;
+    margin: auto;
+
+}
+
+.title img {
+    padding: 20px;
+    height: 50px;
+}
+
